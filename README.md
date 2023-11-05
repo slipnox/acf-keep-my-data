@@ -1,5 +1,11 @@
 # ACF Keep My Data
 
+Tested also on:
+
+![WP](https://img.shields.io/badge/WordPress-v6.3.2-blue)
+![ACF](https://img.shields.io/badge/ACF-v6.2.2-green)
+``
+
 ### Description
 
 ACF Keep My Data is a WordPress plugin that allows you to preserve previous values saved in your posts after renaming custom field names. It was developed to solve a specific situation with a client and it is shared here for others who may find it useful.
