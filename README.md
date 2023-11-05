@@ -4,7 +4,6 @@ Tested also on:
 
 ![WP](https://img.shields.io/badge/WordPress-v6.3.2-blue)
 ![ACF](https://img.shields.io/badge/ACF-v6.2.2-green)
-``
 
 ### Description
 
